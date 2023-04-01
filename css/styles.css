@@ -7,3 +7,6 @@ section {
     padding: 1rem;
 }
 /* developer styles go here */
+h2 {
+    background-color: tomato;
+}
