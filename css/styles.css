@@ -14,4 +14,12 @@ h2 {
     margin-bottom: 1.5rem;
     position: sticky;
     top: 0;
+    /* position sticky only works if there is more than one child. AFter all, the stuck things needs something to scroll by it*/
+    /* sticky positioning can be thought of as a combo of fixed and relative
+*/
+}
+
+h3 {
+    position: sticky;
+    top:0;
 }
