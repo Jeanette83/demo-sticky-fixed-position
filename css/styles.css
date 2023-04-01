@@ -21,5 +21,6 @@ h2 {
 
 h3 {
     position: sticky;
-    top:0;
+    top:104px; /* this is the height of the header*/
+    background-color: #fff;
 }
