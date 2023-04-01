@@ -24,3 +24,10 @@ h3 {
     top:104px; /* this is the height of the header*/
     background-color: #fff;
 }
+
+.snowflake {
+    position: fixed;
+    bottom: 10%;
+    right: 5%;
+
+}
